@@ -42,6 +42,7 @@ Currently working on a socket.io based chat application to rival popular alterna
   - Self Employed 0 salary CEO and Lead Developer of [Rin](https://github.com/RocKing1001/rin)
 
   
+### Recruitment
 - 💼 Any freelance work? Do reach, [email](mailto:kunal.a.dandekar@gmail.com) :)
 - 💬 Ask me about anything, I am always happy to help;)
 - 💻 Open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other job(s)
