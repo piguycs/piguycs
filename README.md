@@ -33,6 +33,13 @@ Currently working on a socket.io based chat application to rival popular alterna
 **Front End:** [@RocKing1001](https://github.com/RocKing1001)<br>
 **Back End:** [@RocKing1001](https://github.com/RocKing1001) (in the works [@HUSKI3](https://github.com/HUSKI3))<br>
 
+### Work Experience
+- Part time
+  - Lead Game Developer at IntegrumX: Developed a game for the Neblio buildathon which incorporates the neblio blockchain for in game transactions
+  - Software Developer and UI/UX Specialist at [TecTone23](https://tectone23.com/) : Developing an interactive and user friendly experience for the TecTone OS and bundled apps/Dapps
+- Full time
+  - None :(
+  - Self Employed 0 salary CEO and Lead Developer of [Rin](https://github.com/RocKing1001/rin)
 
   
 - 💼 Any freelance work? Do reach, [email](mailto:kunal.a.dandekar@gmail.com) :)
