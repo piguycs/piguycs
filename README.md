@@ -29,7 +29,7 @@ I am up for any freelancing offers and an opportunities for me to gain experienc
 
 Currently working on a socket.io based chat application to rival popular alternatives in terms of bleeding edge features and usability<br>
 **Project Name:** Rin<br>
-**Software Stack:** NextJS, ExpressJS (for now), Socket.io, Supabase, PostgresSQL, Prisma and Tea 🫖<br>
+**Software Stack:**~~NextJS, ExpressJS (for now), Socket.io, Supabase, PostgresSQL, Prisma~~ Next v3, firebase and Tea 🫖<br>
 **Front End:** [@RocKing1001](https://github.com/RocKing1001)<br>
 **Back End:** [@RocKing1001](https://github.com/RocKing1001) (in the works [@HUSKI3](https://github.com/HUSKI3))<br>
 
