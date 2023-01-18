@@ -16,7 +16,7 @@ Hi, I'm [Kunal Dandekar](https://piguy.me/).
 I am a self taught software developer, and also a student studying at [Inholland](https://www.inholland.nl/) 📖
 My skills include but are not limited to Full Stack Web Development using frameworks like Nuxt, NextJS, Astro; low level app dev using Python AND learning new things being what I am the best at!
 
-Working for TecTone23 as a part time Software Developer and UI/UX Specalist, creating the user interface to enhance the user experience for the TecTone OS for handheald devices(I mean smartphones 📱)
+Working for TecTone23 as a part time Software Developer and UI/UX Specalist, creating the user interface to enhance the user experience for the TecTone OS for handheald devices (I mean smartphones 📱)
 
 I have many collabrative projects with my friend [HUSKI3](https://github.com/HUSKI3), which has taught me the advantages and disadvantages of working in a team, as well as some great work ethics!!
 
