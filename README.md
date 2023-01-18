@@ -13,39 +13,32 @@
 <br>
 
 Hi, I'm [Kunal Dandekar](https://piguy.me/).
-I am a self taught software developer, and also a student studying computer science 📖
-My skills include but are not limited to Full Stack Web Development using frameworks like NextJS, Vue(2 and 3), ReactJS; low level app dev using python AND learning new things being what I am the best at!
+I am a self taught software developer, and also a student studying at [Inholland](https://www.inholland.nl/) 📖
+My skills include but are not limited to Full Stack Web Development using frameworks like Nuxt, NextJS, Astro; low level app dev using python AND learning new things being what I am the best at!
 
 Working for TecTone23 as a part time Software Developer and UI/UX Specalist, creating the user interface to enhance the user experience for the TecTone OS for handheald devices(I mean smartphones 📱)
 
 I have many collabrative projects with my friend [HUSKI3](https://github.com/HUSKI3), which has taught me the advantages and disadvantages of working in a team, as well as some great work ethics!!
 
-I am up for any freelancing offers and an opportunities for me to gain experience and build connections
+I am up for any freelancing offers and an opportunities for me to gain experience and build connections. I am also looking for any internships for my second year of University (2023-2024)
+
+I recently found out my love for video game modding, Minecraft in particular, and I have a few projects which I have been working on. One of these includes a fully finished minecraft mod [Allay in a Bottle](https://github.com/RocKing1001/AllayInABottle) which has over 1000 downloads across 2 platforms. The mod makes use of kotlin and java along with mixins.
 
 ### what have I been doing recently
-- Learned kotlin and minecraft mod dev in a day and working on [ButterSB](https://github.com/RocKing1001/ButterSB)
-- The new startup idea which is going to the moon [boodschappen](https://github.com/RocKing1001/boodschappen) (and it did not go to the moon. Lesson learnt: dont waste time, as boodschappen was supposed to help people during the lockdowns)
-- Next idea which is going to the moon 👇
-
-Currently working on a socket.io based chat application to rival popular alternatives in terms of bleeding edge features and usability<br>
-**Project Name:** Rin<br>
-**Software Stack:** ~~NextJS, ExpressJS (for now), Socket.io, Supabase, PostgresSQL, Prisma~~ Nuxt v3, firebase and Tea 🫖<br>
-**Front End:** [@RocKing1001](https://github.com/RocKing1001)<br>
-**Back End:** [@RocKing1001](https://github.com/RocKing1001) (in the works [@HUSKI3](https://github.com/HUSKI3))<br>
+- Learned kotlin and minecraft mod dev in a day and working on [Allay in a bottle](https://github.com/RocKing1001/AllayInABottle)
+- An indev chat application made with open source in mind. I work on this whenever I have free time, and my goal is to make a fully open source stack for this app, and write wrappers to integrate with various backends.
 
 ### Work Experience
 - Part time
-  - Lead Game Developer at IntegrumX: Developed a game for the Neblio buildathon which incorporates the neblio blockchain for in game transactions
   - Software Developer and UI/UX Specialist at [TecTone23](https://tectone23.com/) : Developing an interactive and user friendly experience for the TecTone OS and bundled apps/Dapps
 - Full time
-  - None :(
-  - Self Employed 0 salary CEO and Lead Developer of [Rin](https://github.com/RocKing1001/rin)
+  - Full time student, waiting for graduation in 4 years OR an opportunity good enough to drop my studies
 
   
 ### Recruitment
 - 💼 Any freelance work? Do reach, [email](mailto:kunal.a.dandekar@gmail.com) :)
 - 💬 Ask me about anything, I am always happy to help;)
-- 💻 Open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other job(s)
+- 💻 Open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other jobs
 
 **Languages and Tools:**  
 
@@ -74,6 +67,7 @@ Currently working on a socket.io based chat application to rival popular alterna
 
 ### 👓 More about me
 - I love Yoasobi. My fav [たぶん](https://songwhip.com/yoasobi/%E3%81%9F%E3%81%B6%E3%82%93)
+- 19 years old, pursuing a degree in IT
 - I Love to draw, and I am getting better at it
-- I can make great designs/logos, given the right direction
+- I am proud of logos I make
 - I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg">
