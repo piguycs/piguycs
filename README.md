@@ -14,7 +14,7 @@
 
 Hi, I'm [Kunal Dandekar](https://piguy.me/).
 I am a self taught software developer, and also a student studying at [Inholland](https://www.inholland.nl/) 📖
-My skills include but are not limited to Full Stack Web Development using frameworks like Nuxt, NextJS, Astro; low level app dev using python AND learning new things being what I am the best at!
+My skills include but are not limited to Full Stack Web Development using frameworks like Nuxt, NextJS, Astro; low level app dev using Python AND learning new things being what I am the best at!
 
 Working for TecTone23 as a part time Software Developer and UI/UX Specalist, creating the user interface to enhance the user experience for the TecTone OS for handheald devices(I mean smartphones 📱)
 
@@ -22,10 +22,10 @@ I have many collabrative projects with my friend [HUSKI3](https://github.com/HUS
 
 I am up for any freelancing offers and an opportunities for me to gain experience and build connections. I am also looking for any internships for my second year of University (2023-2024)
 
-I recently found out my love for video game modding, Minecraft in particular, and I have a few projects which I have been working on. One of these includes a fully finished minecraft mod [Allay in a Bottle](https://github.com/RocKing1001/AllayInABottle) which has over 1000 downloads across 2 platforms. The mod makes use of kotlin and java along with mixins.
+I recently found out my love for video game modding, Minecraft in particular, and I have a few projects which I have been working on. One of these includes a fully finished minecraft mod [Allay in a Bottle](https://github.com/RocKing1001/AllayInABottle) which has over 1000 downloads across 2 platforms. The mod makes use of Kotlin and Java along with mixins.
 
-### what have I been doing recently
-- Learned kotlin and minecraft mod dev in a day and working on [Allay in a bottle](https://github.com/RocKing1001/AllayInABottle)
+### What have I been doing recently
+- Learned Kotlin and Minecraft modding in a day and working on [Allay in a bottle](https://github.com/RocKing1001/AllayInABottle)
 - An indev chat application made with open source in mind. I work on this whenever I have free time, and my goal is to make a fully open source stack for this app, and write wrappers to integrate with various backends.
 
 ### Work Experience
