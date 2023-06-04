@@ -12,7 +12,7 @@
 <br>
 <br>
 
-I have all of my new open source projects on [codeberg](https://codeberg.org/thepiguy)
+Also available on [codeberg](https://codeberg.org/thepiguy)
 <br>
 
 Hi, I'm [Kunal Dandekar](https://piguy.me/).
