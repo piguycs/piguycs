@@ -12,6 +12,9 @@
 <br>
 <br>
 
+I have all of my new open source projects on [codeberg](https://codeberg.org/thepiguy)
+<br>
+
 Hi, I'm [Kunal Dandekar](https://piguy.me/).
 I am a self taught software developer, and also a student studying at [Inholland](https://www.inholland.nl/) 📖
 My skills include but are not limited to Full Stack Web Development using frameworks like Nuxt, NextJS, Astro; low level app dev using Python AND learning new things being what I am the best at!
