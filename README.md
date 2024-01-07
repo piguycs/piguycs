@@ -6,4 +6,5 @@
 - 🤓 Over 6 years of programming experience across several *unfinished* projects
 
 [view my portfolio](https://piguy.me/)
+
 [some of my projects are on](https://codeberg.org/thepiguy)
