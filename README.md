@@ -6,7 +6,7 @@
 - 🤓 Over 6 years of programming experience across several *unfinished* projects
 
 ## Links
-<a href='https://piguy.me/'>
+<a href='codeberg.org/thepiguy/'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codeberg/white">
     <img alt="Codeberg" title="Codeberg" height="32" width="32" src="https://cdn.simpleicons.org/codeberg">
