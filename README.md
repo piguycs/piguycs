@@ -6,7 +6,9 @@
 - 🤓 Over 6 years of programming experience across several *unfinished* projects
 
 ## Links
-<a href='codeberg.org/thepiguy/'>
+My newer solo projects are hosted over at [Codeberg](https://codeberg.org/piguycs?tab=repositories)
+
+<a href='codeberg.org/piguycs/'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codeberg/white">
     <img alt="Codeberg" title="Codeberg" height="32" width="32" src="https://cdn.simpleicons.org/codeberg">
