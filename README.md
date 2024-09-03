@@ -8,7 +8,7 @@
 ## Links
 My newer solo projects are hosted over at [Codeberg](https://codeberg.org/piguycs?tab=repositories)
 
-<a href='https://codeberg.org/piguycs/'>
+<a href='https://codeberg.org/piguycs?tab=activity'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codeberg/white">
     <img alt="Codeberg" title="Codeberg" height="32" width="32" src="https://cdn.simpleicons.org/codeberg">
