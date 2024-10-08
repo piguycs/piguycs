@@ -3,7 +3,7 @@
 - 💖 Also completed my Computer Science A levels
 - 💼 Open for comissions, part time and remote full time positions
 - 🚲 A2 Dutch, fluent in English
-- 🤓 Over 6 years of programming experience across several *unfinished* projects
+- 🤓 Over 6 years of programming experience across several projects
 
 ## Links
 My newer solo projects are hosted over at [Codeberg](https://codeberg.org/piguycs?tab=repositories)
