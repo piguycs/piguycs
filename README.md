@@ -1,7 +1,5 @@
 # Hello world!
-- 📚 HBO student (Information Technology)
-- 💖 Also completed my Computer Science A levels
-- 💼 Open for comissions, part time and remote full time positions
+- 📚 CS Student
 - 🚲 A2 Dutch, fluent in English
 - 🤓 Over 7 years of programming experience across several projects
 
