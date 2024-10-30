@@ -6,6 +6,12 @@
 ## Links
 My newer solo projects are hosted over at [Codeberg](https://codeberg.org/piguycs?tab=repositories)
 
+## Pins from codeberg
+- [mcrs](https://codeberg.org/piguycs/mcrs)
+- [Smithay window manager](https://codeberg.org/piguycs/dmmt)
+- [Wayland protocol debugging app](https://codeberg.org/piguycs/wayland-window)
+- [ZSCP - Secure TCP protocol](https://codeberg.org/piguycs/zscp-rs)
+
 <a href='https://codeberg.org/piguycs?tab=activity'>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/codeberg/white">
