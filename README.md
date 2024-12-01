@@ -1,4 +1,7 @@
 # Hello world!
+
+[AOC 2024](https://github.com/piguycs/aoc-2024)
+
 - 📚 CS Student
 - 🚲 A2 Dutch, fluent in English
 - 🤓 Over 7 years of programming experience across several projects
