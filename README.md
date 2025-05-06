@@ -9,3 +9,6 @@
 
 ## Languages
 Python, Rust, C, C++, Dovahzul, Zig, Typescript, Hylian, C# and Java
+
+## Technologies
+k3s, docker, lxc, TARDIS, PostgreSQL, MariaDB/MySQL
